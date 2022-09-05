@@ -1,6 +1,7 @@
 import React from "react";
 import { Link } from "react-router-dom";
 
+/** Links to each snack component */
 function Nav() {
   return (
     <ul>

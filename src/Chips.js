@@ -1,5 +1,9 @@
 import React from "react";
 import { Link } from "react-router-dom"
+
+/** Show chip
+ * should be able to go back to the main VendingMachine component
+*/
 function Chips() {
   return (
     <div>
